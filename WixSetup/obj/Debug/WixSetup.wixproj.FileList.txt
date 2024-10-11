@@ -1,0 +1,7 @@
+C:\Users\Kalai\source\repos\Store\WixSetup\bin\Debug\WixSetup.msi
+C:\Users\Kalai\source\repos\Store\WixSetup\bin\Debug\WixSetup.wixpdb
+obj\Debug\Product.wixobj
+obj\Debug\WixSetup.wixproj.BindContentsFileListnull.txt
+obj\Debug\WixSetup.wixproj.BindOutputsFileListnull.txt
+obj\Debug\WixSetup.wixproj.BindBuiltOutputsFileListnull.txt
+C:\Users\Kalai\source\repos\Store\WixSetup\bin\Debug\cab1.cab

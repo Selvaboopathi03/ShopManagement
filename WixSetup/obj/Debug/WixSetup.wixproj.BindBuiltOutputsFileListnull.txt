@@ -1,0 +1,3 @@
+C:\Users\Kalai\source\repos\Store\WixSetup\bin\Debug\cab1.cab
+C:\Users\Kalai\source\repos\Store\WixSetup\bin\Debug\WixSetup.msi
+C:\Users\Kalai\source\repos\Store\WixSetup\bin\Debug\WixSetup.wixpdb

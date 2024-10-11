@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Wix xmlns="http://schemas.microsoft.com/wix/2006/wi">
+	<Product Id="*" Name="WixSetup" Language="1033" Version="1.0.0.0" Manufacturer="Selva" UpgradeCode="96529102-c7cc-4123-b345-ad49d3efeac2">
+		<Package InstallerVersion="500" Compressed="yes" InstallScope="perMachine" />
+
+		<MajorUpgrade DowngradeErrorMessage="A newer version of [ProductName] is already installed." />
+		<MediaTemplate />
+
+		<Feature Id="ProductFeature" Title="WixSetup" Level="1">
+			<ComponentGroupRef Id="ProductComponents" />
+		</Feature>
+	</Product>
+
+	<Fragment>
+		<Directory Id="TARGETDIR" Name="SourceDir">
+			<Directory Id="ProgramFilesFolder">
+				<Directory Id="INSTALLFOLDER" Name="WixSetup" />
+			</Directory>
+		</Directory>
+	</Fragment>
+
+	<Fragment>
+		<ComponentGroup Id="ProductComponents" Directory="INSTALLFOLDER">
+			<!-- Adding the main executable file -->
+			<Component Id="MainExecutable" Guid="{45F01F38-EEC8-4C0D-BBB9-006B7DFDE26F}">
+				<File Id="StoreExe" Source="C:\Users\Kalai\source\repos\Store\Store\bin\Debug\Store.exe" KeyPath="yes" />
+			</Component>
+
+			<!-- Adding all referenced DLL files from the debug folder -->
+			<Component Id="MicrosoftBclAsyncInterfaces" Guid="{E4339B48-5372-4B78-8581-13CB7952CED5}">
+				<File Id="MicrosoftBclAsyncInterfacesDll" Source="C:\Users\Kalai\source\repos\Store\Store\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll" KeyPath="yes" />
+			</Component>
+
+			<Component Id="MicrosoftDataSqlClient" Guid="{C031B996-85D7-46F0-A8C1-C1DEE37C1B6A}">
+				<File Id="MicrosoftDataSqlClientDll" Source="C:\Users\Kalai\source\repos\Store\Store\bin\Debug\Microsoft.Data.SqlClient.dll" KeyPath="yes" />
+			</Component>
+
+			<Component Id="MicrosoftEntityFrameworkCore" Guid="{2A5C840D-4E3D-4E77-8B2C-CD4E05FCC6E2}">
+				<File Id="MicrosoftEntityFrameworkCoreDll" Source="C:\Users\Kalai\source\repos\Store\Store\bin\Debug\Microsoft.EntityFrameworkCore.dll" KeyPath="yes" />
+			</Component>
+
+			<Component Id="NewtonsoftJson" Guid="{12EBAA65-7B97-40A6-B0F3-4E649F135F19}">
+				<File Id="NewtonsoftJsonDll" Source="C:\Users\Kalai\source\repos\Store\Store\bin\Debug\Newtonsoft.Json.dll" KeyPath="yes" />
+			</Component>
+
+			<!-- Add additional components for other DLLs in your bin\Debug folder as needed -->
+
+		</ComponentGroup>
+	</Fragment>
+</Wix>

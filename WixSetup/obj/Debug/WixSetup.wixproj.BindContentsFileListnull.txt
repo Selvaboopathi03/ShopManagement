@@ -1,0 +1,5 @@
+C:\Users\Kalai\source\repos\Store\Store\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Kalai\source\repos\Store\Store\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\Kalai\source\repos\Store\Store\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\Kalai\source\repos\Store\Store\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Kalai\source\repos\Store\Store\bin\Debug\Store.exe

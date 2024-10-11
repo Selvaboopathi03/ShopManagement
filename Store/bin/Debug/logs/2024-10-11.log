@@ -1,0 +1,197 @@
+2024-10-11 15:36:33.9027 INFO New user registered: Admin1 
+2024-10-11 15:36:34.0278 INFO Main form loaded. 
+2024-10-11 15:36:38.2889 INFO Adding new product. 
+2024-10-11 15:36:38.4310 INFO Product grid bound with 8 products. 
+2024-10-11 15:36:38.4310 INFO Product form loaded. 
+2024-10-11 15:36:41.7537 INFO Creating new order for user ID: 5. 
+2024-10-11 15:36:41.7537 INFO frmCreateOrders initialized for user ID: 5 
+2024-10-11 15:36:41.7694 INFO Setting up auto-complete for product names. 
+2024-10-11 15:36:41.7694 INFO Auto-complete setup complete with 8 product names. 
+2024-10-11 15:36:41.8475 INFO Loading order details for user ID: 5 
+2024-10-11 15:36:41.8475 INFO Loading order details... 
+2024-10-11 15:36:41.8475 INFO Retrieving order details from the database. 
+2024-10-11 15:36:41.8631 INFO Retrieved 1 orders for user Admin1. 
+2024-10-11 15:36:41.9100 INFO Customizing the order grid view. 
+2024-10-11 15:36:45.5615 INFO Generating report for user ID: 5. 
+2024-10-11 15:36:47.1585 INFO Fetching products for report generation. 
+2024-10-11 15:36:48.3063 INFO Loading product report. 
+2024-10-11 15:36:48.3063 INFO Retrieved 8 products for the report. 
+2024-10-11 15:36:48.7039 INFO Product report loaded successfully. 
+2024-10-11 15:41:54.1821 INFO Login form loaded. 
+2024-10-11 15:42:06.6476 INFO Login attempt with username: Admin1 and role: admin 
+2024-10-11 15:42:07.5921 INFO Login successful for user: Admin1 
+2024-10-11 15:42:07.7105 INFO Main form loaded. 
+2024-10-11 15:43:46.6935 INFO Login form loaded. 
+2024-10-11 15:44:03.0878 INFO Login attempt with username: Admin1 and role: admin 
+2024-10-11 15:44:04.0016 INFO Login successful for user: Admin1 
+2024-10-11 15:44:04.1433 INFO Main form loaded. 
+2024-10-11 15:44:11.5326 INFO Admin Admin1 logged in and opened frmMain. 
+2024-10-11 15:50:32.2372 INFO Login form loaded. 
+2024-10-11 15:50:51.5737 INFO Login attempt with username: Admin1 and role: admin 
+2024-10-11 15:50:52.4841 INFO Login successful for user: Admin1 
+2024-10-11 15:50:52.5940 INFO Main form loaded. 
+2024-10-11 15:52:03.1638 INFO Admin Admin1 logged in and opened frmMain. 
+2024-10-11 15:55:02.0738 INFO Login form loaded. 
+2024-10-11 15:55:20.1456 INFO Login attempt with username: Admin1 and role: admin 
+2024-10-11 15:55:21.0536 INFO Login successful for user: Admin1 
+2024-10-11 15:55:21.1806 INFO Main form loaded. 
+2024-10-11 15:55:26.6364 INFO Admin Admin1 logged in and opened frmMain. 
+2024-10-11 16:05:14.1173 INFO Login form loaded. 
+2024-10-11 16:07:49.2447 INFO Login form loaded. 
+2024-10-11 16:08:30.8848 INFO New user registered: User 
+2024-10-11 16:08:31.0098 INFO Main form loaded. 
+2024-10-11 16:08:34.6585 INFO Adding new product. 
+2024-10-11 16:08:34.7604 INFO Product grid bound with 8 products. 
+2024-10-11 16:08:34.7604 INFO Product form loaded. 
+2024-10-11 16:08:37.1293 INFO Creating new order for user ID: 6. 
+2024-10-11 16:08:37.1293 INFO frmCreateOrders initialized for user ID: 6 
+2024-10-11 16:08:37.1449 INFO Setting up auto-complete for product names. 
+2024-10-11 16:08:37.1449 INFO Auto-complete setup complete with 8 product names. 
+2024-10-11 16:08:37.2074 INFO Loading order details for user ID: 6 
+2024-10-11 16:08:37.2074 INFO Loading order details... 
+2024-10-11 16:08:37.2074 INFO Retrieving order details from the database. 
+2024-10-11 16:08:37.2230 INFO Retrieved 1 orders for user User. 
+2024-10-11 16:08:37.2679 INFO Customizing the order grid view. 
+2024-10-11 16:08:39.6544 WARN Invalid cell clicked: RowIndex=0, ColumnIndex=-1 
+2024-10-11 16:14:44.5561 INFO Login form loaded. 
+2024-10-11 16:14:58.5419 INFO Login attempt with username: User and role: User 
+2024-10-11 16:14:59.4489 INFO Login successful for user: User 
+2024-10-11 16:15:01.4695 INFO Login attempt with username: User and role: User 
+2024-10-11 16:15:01.4695 INFO Login successful for user: User 
+2024-10-11 16:17:23.2364 INFO Login attempt with username: User and role: User 
+2024-10-11 16:17:28.3086 INFO Login successful for user: User 
+2024-10-11 16:27:16.2454 INFO Login form loaded. 
+2024-10-11 16:27:44.1325 INFO Login attempt with username: User and role: User 
+2024-10-11 16:27:45.1776 INFO Login successful for user: User 
+2024-10-11 16:27:45.2245 INFO Main form loaded. 
+2024-10-11 16:30:27.0004 INFO Login form loaded. 
+2024-10-11 16:31:08.1927 INFO Login attempt with username: User and role: User 
+2024-10-11 16:31:09.5194 INFO Login successful for user: User 
+2024-10-11 16:31:09.5983 INFO Main form loaded. 
+2024-10-11 16:31:31.7455 INFO Generating report for user ID: 6. 
+2024-10-11 16:32:47.5395 INFO Login form loaded. 
+2024-10-11 16:33:01.0603 INFO Login attempt with username: User and role: User 
+2024-10-11 16:33:02.3530 INFO Login successful for user: User 
+2024-10-11 16:33:02.4322 INFO Main form loaded. 
+2024-10-11 16:33:09.4575 INFO Exiting the application. 
+2024-10-11 16:33:09.5107 INFO User User logged in and opened frmMain. 
+2024-10-11 16:33:47.5568 INFO Login form loaded. 
+2024-10-11 16:34:09.1879 INFO Login attempt with username: User and role: User 
+2024-10-11 16:34:10.7783 INFO Login successful for user: User 
+2024-10-11 16:34:10.9061 INFO Main form loaded. 
+2024-10-11 16:34:13.4985 INFO Creating new order for user ID: 6. 
+2024-10-11 16:34:13.5454 INFO frmCreateOrders initialized for user ID: 6 
+2024-10-11 16:34:13.5612 INFO Setting up auto-complete for product names. 
+2024-10-11 16:34:13.5612 INFO Auto-complete setup complete with 8 product names. 
+2024-10-11 16:34:13.6551 INFO Loading order details for user ID: 6 
+2024-10-11 16:34:13.6551 INFO Loading order details... 
+2024-10-11 16:34:13.6551 INFO Retrieving order details from the database. 
+2024-10-11 16:34:13.6868 INFO Retrieved 1 orders for user User. 
+2024-10-11 16:34:13.8131 INFO Customizing the order grid view. 
+2024-10-11 16:34:20.2018 INFO Creating new order for user ID: 6. 
+2024-10-11 16:34:20.2018 INFO frmCreateOrders initialized for user ID: 6 
+2024-10-11 16:34:20.2107 INFO Setting up auto-complete for product names. 
+2024-10-11 16:34:20.2107 INFO Auto-complete setup complete with 8 product names. 
+2024-10-11 16:34:20.2796 INFO Loading order details for user ID: 6 
+2024-10-11 16:34:20.2796 INFO Loading order details... 
+2024-10-11 16:34:20.2796 INFO Retrieving order details from the database. 
+2024-10-11 16:34:20.2796 INFO Retrieved 1 orders for user User. 
+2024-10-11 16:34:20.2796 INFO Customizing the order grid view. 
+2024-10-11 16:35:54.1390 INFO Login form loaded. 
+2024-10-11 16:36:06.8484 INFO Login attempt with username: User and role: User 
+2024-10-11 16:36:08.0374 INFO Login successful for user: User 
+2024-10-11 16:36:08.1301 INFO Main form loaded. 
+2024-10-11 16:36:11.3463 INFO Creating new order for user ID: 6. 
+2024-10-11 16:36:11.3937 INFO frmCreateOrders initialized for user ID: 6 
+2024-10-11 16:36:11.4093 INFO Setting up auto-complete for product names. 
+2024-10-11 16:36:11.4093 INFO Auto-complete setup complete with 8 product names. 
+2024-10-11 16:36:11.5223 INFO Loading order details for user ID: 6 
+2024-10-11 16:36:11.5223 INFO Loading order details... 
+2024-10-11 16:36:14.8645 INFO Retrieving order details from the database. 
+2024-10-11 16:38:24.2054 INFO Login form loaded. 
+2024-10-11 16:38:33.9068 INFO Login attempt with username: User and role: User 
+2024-10-11 16:38:35.1286 INFO Login successful for user: User 
+2024-10-11 16:38:35.2472 INFO Main form loaded. 
+2024-10-11 16:38:38.6310 INFO Creating new order for user ID: 6. 
+2024-10-11 16:38:38.6727 INFO frmCreateOrders initialized for user ID: 6 
+2024-10-11 16:38:38.6884 INFO Setting up auto-complete for product names. 
+2024-10-11 16:38:38.6884 INFO Auto-complete setup complete with 8 product names. 
+2024-10-11 16:38:38.8113 INFO Loading order details for user ID: 6 
+2024-10-11 16:38:38.8113 INFO Loading order details... 
+2024-10-11 16:38:42.0756 INFO Retrieving order details from the database. 
+2024-10-11 16:38:42.1074 INFO Retrieved 0 orders for user User. 
+2024-10-11 16:38:42.1706 INFO Customizing the order grid view. 
+2024-10-11 16:38:54.0971 INFO Product name entered: P1 
+2024-10-11 16:38:54.1097 INFO Product description set: D1 
+2024-10-11 16:38:56.5722 INFO Price calculated: 1.00 for quantity: 1 
+2024-10-11 16:38:58.6092 INFO Creating order for user ID: 6 
+2024-10-11 16:38:58.8129 INFO Created new order with ID: 2 
+2024-10-11 16:38:58.8285 INFO Added new order detail for ProductID: 11, Quantity: 1 
+2024-10-11 16:38:58.8598 INFO Total amount updated for order ID: 2. Total Amount: 1.00 
+2024-10-11 16:39:01.5545 INFO Loading order details... 
+2024-10-11 16:39:09.0208 INFO Retrieving order details from the database. 
+2024-10-11 16:39:09.0522 INFO Retrieved 1 orders for user User. 
+2024-10-11 16:39:09.1631 INFO Customizing the order grid view. 
+2024-10-11 16:39:09.1631 WARN Invalid quantity entered:  
+2024-10-11 16:39:09.1631 INFO Order processing completed successfully. 
+2024-10-11 16:39:12.3576 WARN Invalid cell clicked: RowIndex=0, ColumnIndex=-1 
+2024-10-11 16:39:13.7925 WARN Invalid cell clicked: RowIndex=0, ColumnIndex=-1 
+2024-10-11 16:39:14.8343 WARN Invalid cell clicked: RowIndex=0, ColumnIndex=-1 
+2024-10-11 16:39:15.1814 WARN Invalid cell clicked: RowIndex=0, ColumnIndex=-1 
+2024-10-11 16:39:15.5109 WARN Invalid cell clicked: RowIndex=0, ColumnIndex=-1 
+2024-10-11 16:39:15.9023 WARN Invalid cell clicked: RowIndex=0, ColumnIndex=-1 
+2024-10-11 16:39:16.4965 WARN Invalid cell clicked: RowIndex=0, ColumnIndex=-1 
+2024-10-11 16:39:16.8441 WARN Invalid cell clicked: RowIndex=0, ColumnIndex=-1 
+2024-10-11 16:39:17.7083 WARN Invalid cell clicked: RowIndex=0, ColumnIndex=-1 
+2024-10-11 16:39:18.0542 WARN Invalid cell clicked: RowIndex=0, ColumnIndex=-1 
+2024-10-11 16:39:19.0005 INFO Order ID 2 clicked in the grid. 
+2024-10-11 16:39:19.0005 INFO Binding order details for order ID: 2 
+2024-10-11 16:39:19.0005 INFO Fetching order details for order ID: 2 
+2024-10-11 16:39:19.0155 INFO Retrieved 1 order details for order ID: 2 
+2024-10-11 16:39:19.0269 INFO Customizing the order details grid view. 
+2024-10-11 16:39:20.7417 WARN Invalid cell clicked: RowIndex=0, ColumnIndex=-1 
+2024-10-11 16:39:21.4348 WARN Invalid cell clicked: RowIndex=0, ColumnIndex=-1 
+2024-10-11 16:39:22.0481 WARN Invalid cell clicked: RowIndex=0, ColumnIndex=-1 
+2024-10-11 16:39:22.3611 WARN Invalid cell clicked: RowIndex=0, ColumnIndex=-1 
+2024-10-11 16:39:22.7716 WARN Invalid cell clicked: RowIndex=0, ColumnIndex=-1 
+2024-10-11 16:40:30.8555 INFO Login form loaded. 
+2024-10-11 16:40:47.6293 INFO Login attempt with username: User and role: User 
+2024-10-11 16:40:48.7862 INFO Login successful for user: User 
+2024-10-11 16:40:48.9128 INFO Main form loaded. 
+2024-10-11 16:40:51.7402 INFO Creating new order for user ID: 6. 
+2024-10-11 16:40:51.8031 INFO frmCreateOrders initialized for user ID: 6 
+2024-10-11 16:40:51.8187 INFO Setting up auto-complete for product names. 
+2024-10-11 16:40:51.8187 INFO Auto-complete setup complete with 8 product names. 
+2024-10-11 16:40:51.9033 INFO Loading order details for user ID: 6 
+2024-10-11 16:40:51.9033 INFO Loading order details... 
+2024-10-11 16:40:51.9033 INFO Retrieving order details from the database. 
+2024-10-11 16:40:51.9446 INFO Retrieved 1 orders for user User. 
+2024-10-11 16:40:52.0387 INFO Customizing the order grid view. 
+2024-10-11 16:40:56.4517 INFO Order ID 2 clicked in the grid. 
+2024-10-11 16:40:56.4517 INFO Binding order details for order ID: 2 
+2024-10-11 16:40:56.4517 INFO Fetching order details for order ID: 2 
+2024-10-11 16:40:56.4993 INFO Retrieved 1 order details for order ID: 2 
+2024-10-11 16:40:56.4993 INFO Customizing the order details grid view. 
+2024-10-11 16:41:03.5524 ERROR An error occurred during the login process. System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.Collections.ArrayList.get_Item(Int32 index)
+   at System.Windows.Forms.DataGridViewRowCollection.SharedRow(Int32 rowIndex)
+   at System.Windows.Forms.DataGridViewRowCollection.get_Item(Int32 index)
+   at Store.frmCreateOrders.grdOrder_CellClick(Object sender, DataGridViewCellEventArgs e) in C:\Users\Kalai\source\repos\Store\Store\frmCreateOrders.cs:line 189
+   at System.Windows.Forms.DataGridView.OnCellClick(DataGridViewCellEventArgs e)
+   at System.Windows.Forms.DataGridView.OnMouseClick(MouseEventArgs e)
+   at System.Windows.Forms.Control.WmMouseUp(Message& m, MouseButtons button, Int32 clicks)
+   at System.Windows.Forms.Control.WndProc(Message& m)
+   at System.Windows.Forms.DataGridView.WndProc(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   at System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   at System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG& msg)
+   at System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   at System.Windows.Forms.Application.RunDialog(Form form)
+   at System.Windows.Forms.Form.ShowDialog(IWin32Window owner)
+   at System.Windows.Forms.Form.ShowDialog()
+   at Store.frmLogin.button1_Click(Object sender, EventArgs e) in C:\Users\Kalai\source\repos\Store\Store\frmLogin.cs:line 84
+2024-10-11 16:41:59.2442 INFO Login form loaded. 
